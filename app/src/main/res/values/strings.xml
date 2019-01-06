@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Glub</string>
+    <string name="section_format">Hello World from section: %1$s</string>
+</resources>
